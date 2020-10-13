@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TwoNumberAdd",
+            "request": "launch",
+            "mainClass": "TwoNumberAdd",
+            "projectName": "leetcode_ee48db4f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - VsCodeTest1",
             "request": "launch",
             "mainClass": "VsCodeTest1",
